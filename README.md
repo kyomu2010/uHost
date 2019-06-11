@@ -1,2 +1,2 @@
 # uHost
-A website that demos the use of CSS3 to improve the look of the markup
+A website that demos the use of CSS3 (including flexbox, grid and Saas) to improve the look of the markup
